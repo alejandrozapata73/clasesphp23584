@@ -156,8 +156,22 @@ echo $gerardo->edad;
 //Tarea Fin de semana
 /* clear una clase SuperHeroes, o algun tema partilar
 
+-atributos
+-metodos/funciones
 generar 5 objetos
 
 */
+
+echo "<br>";
+echo "require";
+
+require 'pages/header.php';
+require 'pages/main.php';
+require 'pages/footer.php';
+
+
+
+
+
 
 ?>
