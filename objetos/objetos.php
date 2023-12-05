@@ -66,10 +66,11 @@ $miguel->setTelefono($valorTelUsuario);
 echo $miguel->getTelefono();
 
 
-//tarea del finde... 
+//1-tarea del finde... 
 /*
 
 Crear un formulario que tome X cantidad de inputs y los asigne a un objeto
+
 
 */
 
